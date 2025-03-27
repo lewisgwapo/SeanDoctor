@@ -1,0 +1,17 @@
+table, tr, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+  
+  tr:hover{
+    background-color: #cc956e;
+  }
+  
+  tr.purple{
+    background-color: black;
+  }
+  
+  tr.cyan{
+    background-color: white;
+  }
